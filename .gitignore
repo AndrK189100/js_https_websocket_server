@@ -1,0 +1,7 @@
+node_modules
+coverage
+certs
+*.log
+dist
+.vscode
+.foreverignore
